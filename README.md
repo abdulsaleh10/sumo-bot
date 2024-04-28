@@ -4,11 +4,11 @@ During my software engineering internship at GE Appliances, I participated in th
 
 <div style="display:flex; justify-content:center;">
   <video width="45%" controls>
-    <source src="https://github.com/abdulsaleh10/sumo-bot/blob/main/Videos/vid.mov" type="video/mp4">
+    <source src="https://github.com/abdulsaleh10/sumo-bot/blob/main/Videos/vid.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <video width="45%" controls>
-    <source src="https://github.com/abdulsaleh10/sumo-bot/blob/main/Videos/vid2.mov" type="video/mp4">
+    <source src="https://github.com/abdulsaleh10/sumo-bot/blob/main/Videos/vid2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
