@@ -7,3 +7,7 @@ Example Fight 1 | Example Fight 2
 <video src=https://github.com/abdulsaleh10/sumo-bot/assets/89872422/b4cc05f0-5541-401b-babc-ea058e176f84 width=180/> | <video src=https://github.com/abdulsaleh10/sumo-bot/assets/89872422/96deccd4-f6ca-49b9-84d4-8a0bb020532b width=180/>
 
 To design the algorithm for our robot's movements, we methodically set the pin connections on our microcontroller. We controlled the motor's speed using PWM signals sent via an analog pin, while directional control was handled by digital pins. Our sensor arrangement combined analog and digital signals. We used five infrared sensors to assess opponent proximity and change our robot's trajectory accordingly. We also included a line sensor, enabling our robot to track the perimeter of the battlefield and ensure that it remained within its boundaries. Our strategy, designed using state machines and timers written in embedded C, was programmed into the microcontroller using a Raspberry Pi.
+
+## Final Competition Videos
+
+https://www.youtube.com/playlist?list=PL3E1rWgEM-g5M380WTSY_CLNtDUv-ua7c
